@@ -1,5 +1,5 @@
-// 將 API_URL 更新為新的 GAS 部署 URL
-const API_URL = 'https://script.google.com/macros/s/AKfycbxsSWUGu3OFpUTsA9043V72Mt6TEr8w9-UFLQmkVU_qpJik-x9Q1PMWhR_o2k6E7355/exec';
+// Google Apps Script API URL
+const API_URL = 'https://script.google.com/macros/s/AKfycbxGC_i-XO3h0_OZwv61wynenVLs9VolSHvT0NGTTD-946JTRoWA5hZAOQ4mVPKWh3jV/exec';
 
 // 生成唯一的回調函數名稱
 function generateCallbackName() {
