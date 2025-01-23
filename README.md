@@ -24,4 +24,4 @@
 ## 在線訪問
 
 您可以通過以下地址訪問系統：
-https://294mano.github.io/order-status-query/ 
+https://294mano.github.io/order_query/ 
