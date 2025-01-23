@@ -1,5 +1,5 @@
 // Google Apps Script API URL
-const API_URL = 'https://script.google.com/macros/s/AKfycbxGC_i-XO3h0_OZwv61wynenVLs9VolSHvT0NGTTD-946JTRoWA5hZAOQ4mVPKWh3jV/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbyTi4eJhw8Xn7o9_ApTcqhJ9LT84CHWCAuxk6mV-1Pc6aP5bxAUt1yLJqklglaS_k8F/exec';
 
 // 生成唯一的回調函數名稱
 function generateCallbackName() {
